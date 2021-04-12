@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    
+    }
+td{
+    padding: 7px;
+}
+
+
+body{
+
+        background-image: url('image-back.jpg'); 
+       }
+
+       button{
+        background-color: rgb(173, 173, 173);
+        
+        }

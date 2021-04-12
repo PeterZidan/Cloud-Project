@@ -1,0 +1,19 @@
+h1 {
+text-align: center;
+
+}
+
+.column {
+    float: left;
+    margin: 15px;
+    padding: 5px;
+  }
+
+.courses-table {
+    border: 1px solid black;
+    width: 33%;
+}
+
+body{
+    background-image: url('image-back.jpg');
+}
