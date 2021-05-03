@@ -1,0 +1,86 @@
+body{
+
+    background-color: #d4d0d0;
+}
+
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    text-align:right;
+    float:right;
+}
+
+.title {
+    text-align: center;
+}
+
+.unOrderList {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    border-width: medium;
+    border-style: inset;
+    background-color: #5267ca;
+}
+.wordList {
+    padding: 5px;
+    margin: 5px;
+    text-align:center;
+}
+
+.btn1 {
+    border: none;
+    background-color: inherit;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+}
+
+.mainList {
+    float: left;
+    
+}
+
+.left {
+    width: 25%;
+}
+
+.right {
+    width: 75%;
+}
+
+.insidetable1{
+    margin: 20px;
+    padding: 20px;
+}
+
+.table1 {
+    margin: 40px;
+    padding: 40px;
+}
+
+input {
+    /*   border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+ */
+    border: none;
+    background-color: white;
+}
+
+.tableforimg {
+    margin: 15px;
+    padding: 15px;
+}
+
+
+.forimg {
+    margin: 20px;
+    padding: 20px;
+    width:auto;
+}
