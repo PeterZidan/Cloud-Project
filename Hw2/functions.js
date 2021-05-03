@@ -13,6 +13,9 @@ function repairFunction() {
 function contactFunction() {
     window.location.href = "contact-us.html";
 }
+function referenceFunction() {
+    window.location.href = "refernces.html";
+}
 
 
 function sendFunction() {
